@@ -5,10 +5,11 @@
 ## 🧐 Current Overview:
 <center>
 
-<div>
+<div style="align-items:center, width:100%">
+<figure>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&hide_border=true&border_radius=0&stroke=F6A91C&fire=EB5454&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C)
-
+</figure>
 </div>
 </center>
 
