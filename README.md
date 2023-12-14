@@ -29,7 +29,9 @@
 &nbsp;
 
 <!-- About Me Section -->
+
 # 👩‍💻 About Me
+
 - 👨‍💼 Md Najatul islam
 - 🌍 Rangpur, Bangladesh
 - 👨‍💻 Full-stack Developer
@@ -45,14 +47,10 @@
 
 ## 💻 Technologies that I know
 
-
 <table><tr><td valign="top" width="33%">
-  
-<center>
- 
-### Frontend
 
-</center> 
+ <h2 align="center"> 🖥️ Frontend </h2>
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -65,11 +63,8 @@
 
 </td><td valign="top" width="33%">
 
-<center>
+<h2 align="center"> ⚙️ Backend </h2>
 
-### Backend
-
-</center> 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -79,11 +74,8 @@
 
 </td><td valign="top" width="33%">
 
-<center>
+<h2 align="center"> 🛠️ Tools </h2>
 
-### Tools
-
-</center> 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
@@ -94,14 +86,13 @@
 
 </td></tr></table>
 
-
 &nbsp;
 &nbsp;
 &nbsp;
 
 <!-- Git hub status  -->
-## 🔥Streak Showcase
 
+## 🔥Streak Showcase
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
@@ -109,17 +100,16 @@
 &nbsp;
 &nbsp;
 
-
 <!-- Stats & top language uses  -->
 
 ## 🚀 Current Github Status:
 
 <table align="center"><tr><td valign="top" width="50%">
-  
 
-<h2 align="center"> 🚀 Stats: </h2>
 
-<div align="center">  
+<h2 align="center"> 📊 Stats: </h2>
+
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
 
@@ -128,11 +118,12 @@
 </td>
 <td valign="top" width="50%">
 
-<h2 align="center"> 🚀 Top Language: </h2>
+<h2 align="center"> 👨🏽‍💻 Top Language </h2>
 
-<div align="center">  
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange)
+
 </div>
 
 </td></tr></table>
@@ -140,6 +131,7 @@
 &nbsp;
 
 <!-- Summery Card  -->
+
 ## 📊 Commit Charts & Insights
 
 <div class='container'>
