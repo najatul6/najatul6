@@ -24,7 +24,7 @@
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
 &nbsp;
 <div style="display: flex; flex-direction: row;">
-<img style="height: auto; width: 600%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200" />
+<img style="height: auto; width: 60%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange" /></div>
