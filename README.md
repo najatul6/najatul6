@@ -95,11 +95,26 @@
 </td></tr></table>
 
 
-<!-- Git hub Status  -->
+&nbsp;
+&nbsp;
+&nbsp;
+
+<!-- Git hub status  -->
+## 🔥Streak Showcase
+
+
+<div class='container'>
+<img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
+</div>
+&nbsp;
+&nbsp;
+
+
+<!-- Stats & top language uses  -->
 
 ## 🚀 Current Github Status:
 
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
   
 
 <h2 align="center"> 🚀 Stats: </h2>
@@ -121,21 +136,8 @@
 </div>
 
 </td></tr></table>
-
 &nbsp;
 &nbsp;
-&nbsp;
-
-<!-- Git hub status  -->
-## 🔥Streak Showcase
-
-
-<div class='container'>
-<img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
-</div>
-&nbsp;
-&nbsp;
-
 
 <!-- Summery Card  -->
 ## 📊 Commit Charts & Insights
