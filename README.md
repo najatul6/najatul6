@@ -38,13 +38,13 @@
 - 💡 Committed to continuous innovation through code.
 - ⚡ Fun fact: I always love coding and creating creative websites
 
+&nbsp;
+&nbsp;
 
 <!-- Technology i KNow  -->
 
 ## 💻 Technologies that I know
 
-&nbsp;
-&nbsp;
 
 <table><tr><td valign="top" width="33%">
   
