@@ -1,12 +1,24 @@
 ![alt text](https://i.ibb.co/t451wFq/najatul6.png)
 
-### Hi there 👋
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
 &nbsp;
 &nbsp;
 
+### Hi!! 👋
+
+## 💻 Technologies that I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,dotnet,firebase,github,git,wordpress," />
+  </a>
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
 ## 👀 Current Overview:
 
 - 🔭 I’m currently working on my own project.
@@ -17,17 +29,7 @@
   &nbsp;
   &nbsp;
 
-## 💻 Technologies that I know
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,dotnet,firebase,github,git,wordpress,ps&perline=5" />
-  </a>
-</p>
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## 🚀 Current Github Status:
 
