@@ -23,10 +23,10 @@
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
 &nbsp;
-<div style="display: flex; flex-direction: row; width:100%;">
-<img style="width:100%" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200" />
+<div style="display: flex; flex-direction: row;">
+<img style="width:50%" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200" />
 &nbsp;
 &nbsp;
-<img style="width:100%" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange" /></div>
+<img style="width:50%" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange" /></div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange) -->
