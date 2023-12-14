@@ -104,7 +104,7 @@
 
 ## 🚀 Current Github Status:
 
-<table align="center" background="rgb(18, 68, 83)"><tr><td valign="top" width="50%">
+<table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
 
 
 <h2 align="center"> 📊 Stats: </h2>
