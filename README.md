@@ -12,6 +12,7 @@
 
 <!-- Social Links -->
 <div align="center">
+
   <a href="https://www.linkedin.com/in/mahmudulturan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
@@ -29,20 +30,14 @@
 
 <!-- About Me Section -->
 # 👩‍💻 About Me
-- 👨‍💼 Mahmudul Hasan
+- 👨‍💼 Md Najatul islam
 - 🌍 Rangpur, Bangladesh
 - 👨‍💻 Full-stack Developer
 - 📚 Passionately Pursuing MERN Stack Development
 - 🚀 Dedicated to crafting exceptional web experiences.
 - 💡 Committed to continuous innovation through code.
+- ⚡ Fun fact: I always love coding and creating creative websites
 
-
-<!-- Summery Card  -->
-
-<div class='container'>
-<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
-&nbsp;
-&nbsp;
 
 <!-- Technology i KNow  -->
 
@@ -103,15 +98,7 @@
 &nbsp;
 &nbsp;
 
-## 👀 Current Overview:
-
-- 🔭 I’m currently working on my own project.
-- 🌱 I’m currently exploring Node JS & JavaScript Problem Solving
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: mdnajatulislam.develop@gmail.com
-- ⚡ Fun fact: I always love coding and creating creative websites
-  &nbsp;
-  &nbsp;
+<!-- Git hub status  -->
 
 ## 🚀 Current Github Status:
 
@@ -121,16 +108,15 @@
 &nbsp;
 &nbsp;
 
+<div align="center" width="100%">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
 
-## 📫 Reach me out
+</div>
 
-<p align="left">
+<!-- Summery Card  -->
 
-<a href = "https://www.facebook.com/najatul6"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/najatul-islam-9301251ba"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/najatul6/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:mdnajatulislam.develop@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://www.youtube.com"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
+<div class='container'>
+<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
+&nbsp;
+&nbsp;
