@@ -1,22 +1,61 @@
-![alt text](https://i.ibb.co/t451wFq/najatul6.png)
+<!-- Intro -->
+<h1 align="center">Welcome to My Profile! 👋</h1>
+&nbsp;
+&nbsp;
 
+<!-- Cover Image -->
+<div align="center">
+
+[![najatul6](https://i.ibb.co/t451wFq/najatul6.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul6/)
+
+</div>
+
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmudulturan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Mahmuduturan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/dev.mahmudulhasan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
+  </a>
+
+</div>
+
+&nbsp;
+&nbsp;
+
+<!-- About Me Section -->
+# 👩‍💻 About Me
+- 👨‍💼 Mahmudul Hasan
+- 🌍 Rangpur, Bangladesh
+- 👨‍💻 Full-stack Developer
+- 📚 Passionately Pursuing MERN Stack Development
+- 🚀 Dedicated to crafting exceptional web experiences.
+- 💡 Committed to continuous innovation through code.
+
+
+<!-- Summery Card  -->
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
 &nbsp;
 &nbsp;
 
-### Hi!! 👋
+<!-- Technology i KNow  -->
 
 ## 💻 Technologies that I know
-  &nbsp;
-  &nbsp;
+
+&nbsp;
+&nbsp;
 
 <table><tr><td valign="top" width="33%">
   
 <center>
  
-### Frontend  
+### Frontend
 
 </center> 
 <div align="center">  
@@ -31,10 +70,9 @@
 
 </td><td valign="top" width="33%">
 
-  
 <center>
 
- ### Backend 
+### Backend
 
 </center> 
 <div align="center">  
@@ -46,10 +84,9 @@
 
 </td><td valign="top" width="33%">
 
-    
 <center>
 
-### Tools  
+### Tools
 
 </center> 
 <div align="center">  
@@ -60,13 +97,12 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-
+</td></tr></table>
 
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## 👀 Current Overview:
 
 - 🔭 I’m currently working on my own project.
@@ -77,7 +113,6 @@
   &nbsp;
   &nbsp;
 
-
 ## 🚀 Current Github Status:
 
 <div class='container'>
@@ -87,7 +122,6 @@
 &nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
-
 
 ## 📫 Reach me out
 
