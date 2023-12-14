@@ -94,13 +94,41 @@
 
 </td></tr></table>
 
+
+<!-- Git hub Status  -->
+
+## 🚀 Current Github Status:
+
+<table><tr><td valign="top" width="50%">
+  
+
+<h2 align="center"> 🚀 Stats: </h2>
+
+<div align="center">  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
+
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+<h2 align="center"> 🚀 Top Language: </h2>
+
+<div align="center">  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange)
+</div>
+
+</td></tr></table>
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 <!-- Git hub status  -->
+## 🔥Streak Showcase
 
-## 🚀 Current Github Status:
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
@@ -108,13 +136,9 @@
 &nbsp;
 &nbsp;
 
-<div align="center" width="100%">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
-
-</div>
 
 <!-- Summery Card  -->
+## 📊 Commit Charts & Insights
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
