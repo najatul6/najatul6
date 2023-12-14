@@ -29,4 +29,9 @@
 &nbsp;
 <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange" /></div>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange&card_width=1200) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange) -->
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange" /></div>
+</div>
