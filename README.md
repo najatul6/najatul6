@@ -4,9 +4,10 @@
 &nbsp;
 
 <!-- Cover Image -->
+
 <div align="center">
 
-[![najatul6](https://i.ibb.co/t451wFq/najatul6.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul6/)
+[![najatul6](https://i.ibb.co/QXHpKCD/najatul6-github-cover.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul6/)
 
 </div>
 
