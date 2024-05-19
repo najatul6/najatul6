@@ -5,9 +5,11 @@
 
 <!-- Cover Image -->
 
-<div align="center">
+<div align="center" width='100%'>
 
-[![najatul6](https://drive.google.com/file/d/1l7QakoJDYTNoNw2fWm3JI0pFnLfduY53/preview "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
+<img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6%20github%20cover.png"  alt="najatul cover image" />
+
+[![najatul6](https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6%20github%20cover.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
 
 </div>
 
