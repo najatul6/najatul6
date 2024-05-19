@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![najatul6](https://drive.google.com/file/d/1l7QakoJDYTNoNw2fWm3JI0pFnLfduY53/view?usp=sharing "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
+[![najatul6](https://drive.google.com/file/d/1l7QakoJDYTNoNw2fWm3JI0pFnLfduY53/preview "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
 
 </div>
 
