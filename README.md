@@ -1,13 +1,13 @@
 <!-- Intro -->
-<h1 align="center">Welcome to My Profile! 👋</h1>
+<!-- <h1 align="center">Welcome to My Profile! 👋</h1>
 &nbsp;
-&nbsp;
+&nbsp; -->
 
 <!-- Cover Image -->
 
 <div align="center">
 
-[![najatul6](https://i.ibb.co/QXHpKCD/najatul6-github-cover.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul6/)
+[![najatul6](https://drive.google.com/file/d/1l7QakoJDYTNoNw2fWm3JI0pFnLfduY53/view?usp=sharing "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
 
 </div>
 
