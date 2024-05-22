@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![najatul6](https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6%20github%20cover.png "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
+[![najatul6](https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6.jpg "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
 
 </div>
 
