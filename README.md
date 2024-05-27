@@ -27,8 +27,9 @@
 </div>
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=najatul6.visitor-badge&format=true" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=najatul6.najatul6&right_color=darkred" alt="Visitor Badge" />
 </div>
+
 &nbsp;
 &nbsp;
 
