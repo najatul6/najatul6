@@ -35,7 +35,7 @@
 
 <!-- About Me Section -->
 
-# 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
 - 👨‍💼 Md Najatul islam
 - 🌍 Rangpur, Bangladesh
@@ -49,8 +49,7 @@
 &nbsp;
 
 <!-- Technology i KNow  -->
-
-## 💻 Technologies that I know
+<h2 align="center">💻 Technologies that I know </h2>
 
 <table><tr><td valign="top" width="33%">
 
@@ -96,8 +95,8 @@
 &nbsp;
 
 <!-- Git hub status  -->
+<h2 align="center">🔥 Streak Showcase</h2>
 
-## 🔥Streak Showcase
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
@@ -107,7 +106,7 @@
 
 <!-- Stats & top language uses  -->
 
-## 🚀 Current Github Status:
+<h2 align="center">🚀 Current Github Status:</h2>
 
 <table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
 
@@ -136,8 +135,7 @@
 &nbsp;
 
 <!-- Summery Card  -->
-
-## 📊 Commit Charts & Insights
+<h2 align="center">📊 Commit Charts & Insights</h2>
 
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
