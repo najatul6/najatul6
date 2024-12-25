@@ -98,7 +98,6 @@
 <!-- Git hub status  -->
 <h2 align="center">🔥 Streak Showcase</h2>
 
-
 <div class='container'>
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
 </div>
@@ -110,7 +109,6 @@
 <h2 align="center">🚀 Current Github Status:</h2>
 
 <table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
-
 
 <h2 align="center"> 📊 Stats: </h2>
 
@@ -144,6 +142,7 @@
 &nbsp;
 
 <div align="center">
-<h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/najatul6/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiak007" alt="ishtiak007" /></a> </p>
+<h2 align="center">🏆 Github Trophy 🏆</h2>
+
+<p align="center"> <a href="https://github.com/najatul6/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=juicyfresh" alt="ishtiak007" /></a> </p>
 </div>
