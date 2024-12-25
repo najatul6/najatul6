@@ -36,7 +36,7 @@
 <!-- About Me Section -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hi,+!+👋;+I'm+Ishtiak+Ahmed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hi,+!+👋;+I'm+Najatul+Islam!;" />
 </h1>
 
 - 👨‍💼 Md Najatul islam
