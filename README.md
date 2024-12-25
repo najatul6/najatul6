@@ -144,5 +144,5 @@
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 
-<p align="center"> <a href="https://github.com/najatul6/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=juicyfresh" alt="ishtiak007" /></a> </p>
+<p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=juicyfresh" alt="najatul islam" /></a> </p>
 </div>
