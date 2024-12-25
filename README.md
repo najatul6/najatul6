@@ -142,3 +142,8 @@
 <img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
 &nbsp;
 &nbsp;
+
+<div align="center">
+<h3 align="center">🏆 Github Trophy 🏆</h3>
+<p align="center"> <a href="https://github.com/najatul6/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiak007" alt="ishtiak007" /></a> </p>
+</div>
