@@ -99,7 +99,9 @@
 <h2 align="center">🔥 Streak Showcase</h2>
 
 <div class='container'>
-<img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
+<!-- <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=0&stroke=F6A91C&fire=EB5454&background=124453&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" /> -->
+<!-- cff80b -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=merko&card_width=100)]
 </div>
 &nbsp;
 &nbsp;
