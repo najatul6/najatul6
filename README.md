@@ -99,7 +99,7 @@
 <h2 align="center">🔥 Streak Showcase</h2>
 <div align='center'>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=merko&hide_border=true&border_radius=10&card_width=503)](#)
 
 </div>
 <!-- 
