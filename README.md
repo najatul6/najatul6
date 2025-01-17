@@ -97,7 +97,7 @@
 
 <!-- Git hub status  -->
 <h2 align="center">🔥 Streak Showcase</h2>
-<div class='center' style="width:100%">
+<div align='center'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
 
