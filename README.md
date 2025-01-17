@@ -97,9 +97,10 @@
 
 <!-- Git hub status  -->
 <h2 align="center">🔥 Streak Showcase</h2>
-<div class='container'>
+<div class='center' style="width:100%">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
+
 </div>
 <!-- 
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=merko&border_radius=0&stroke=F6A91C&fire=EB5454&background=cff80b&ring=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6A91C&sideLabels=F6A91C&dates=FFFFFF&excludeDaysLabel=F6A91C" />
