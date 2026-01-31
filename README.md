@@ -60,7 +60,10 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <!-- Git hub status  -->
 ## 🔥 Streak Showcase
 
-![GitHub Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight)
+
 
 &nbsp;
 &nbsp;
@@ -106,6 +109,4 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ## 🏆 Github Trophy 🏆
 
- <div align="center"> 
-<p align="center"> <a href="https://najatul-islam.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight" alt="najatul islam" /></a> </p> 
-</div>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&cache_seconds=86400)
