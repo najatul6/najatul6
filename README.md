@@ -1,7 +1,9 @@
 <!-- Cover Image -->
 
 <div align="center">
-  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%" height="200px" style="border-radius: 12px;" />
+<div width="100%" height="300px" overflow="hidden">
+  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%"  style="border-radius: 12px;background-size:cover;" />
+  </div>
   
   <br/>
   
@@ -56,9 +58,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ## 🔥 Streak Showcase
 
-<div align="center">
 ![GitHub Streak](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
-</div>
+
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
