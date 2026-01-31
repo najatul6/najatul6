@@ -5,8 +5,8 @@
   <img 
     src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/najatulislam.gif" 
     width="100%" 
-    height="200" 
-    style="border-radius: 12px; object-fit: cover; display: block;" 
+    height="300px"
+    style="object-fit: cover; display: block;" 
   />
 </div>
   
@@ -26,7 +26,7 @@
     <a href="https://twitter.com/MNajatul" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="mailto:mdnajatulislam.develop@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:mdnajatulislam.develop@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
   
   <br/>
