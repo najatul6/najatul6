@@ -96,6 +96,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 &nbsp;
 
 <!-- Summery Card  -->
+
 ### 📈 Activity & Contribution Insights
 
 <div align="center">
@@ -104,11 +105,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 &nbsp;
 &nbsp;
 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
-</div>
-<!-- <div align="center">
+ <div align="center"> 
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 
 <p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight" alt="najatul islam" /></a> </p> 
-</div> 
+</div>
