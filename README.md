@@ -97,14 +97,18 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <!-- Summery Card  -->
 
-### 📈 Activity & Contribution Insights
+<!-- ### 📈 Activity & Contribution Insights
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=dark" width="100%" />
+</div> -->
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
 
   <br/>
 
-## 🏆 Github Trophy 🏆
+### 🏆 Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
