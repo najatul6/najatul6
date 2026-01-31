@@ -1,149 +1,80 @@
-<!-- Intro -->
-<!-- <h1 align="center">Welcome to My Profile! 👋</h1>
-&nbsp;
-&nbsp; -->
+<div align="center">
+  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6.jpg" width="100%" style="border-radius: 12px; border: 2px solid #06B6D4;" />
+  
+  <br/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Najatul+Islam;Full+Stack+Engineer;MERN+Stack+Specialist;" color="06B6D4" />
+  </h1>
 
-<!-- Cover Image -->
+  <div align="center">
+    <a href="https://najatul-islam.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=06B6D4" />
+    </a>
+    <a href="https://www.linkedin.com/in/najatul-islam-94193b1b3/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+  
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=najatul6.najatul6&right_color=06B6D4&left_color=1E3A8A" alt="Visitor Badge" />
+</div>
+
+---
+
+### 🚀 Professional Summary
+I am a **Full-Stack Developer** specializing in building scalable web applications with the **MERN Stack**. My focus is on writing clean, maintainable code and delivering high-performance user experiences. I am constantly exploring modern web standards like **Next.js** and **Tailwind v4** to stay at the forefront of digital innovation.
+
+- 🔭 **Current Focus:** Advanced React patterns and Backend Optimization.
+- ⚙️ **Workflow:** Agile methodology, Git version control, and CI/CD deployment.
+- 💬 **Core Values:** Problem-solving, Scalability, and Pixel-perfect design.
+
+---
+
+### 🛠️ Technical Skill Set
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
+</div>
+
+---
+
+### 📊 GitHub Engineering Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&bg_color=1E3A8A&title_color=06B6D4&text_color=ffffff&border_color=06B6D4&hide_border=true" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight&background=1E3A8A&ring=06B6D4&fire=06B6D4&currStreakNum=ffffff&sideLabels=06B6D4&stroke=06B6D4" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&bg_color=1E3A8A&title_color=06B6D4&text_color=ffffff&border_color=06B6D4&hide_border=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 Activity & Contribution Insights
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
-
-[![najatul6](https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6.jpg "Md. Najatul islam")](https://www.linkedin.com/in/najatul-islam-94193b1b3/)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&column=4&margin-w=15&no-bg=true" width="90%" />
 </div>
 
-<!-- Social Links -->
-<div align="center">
+<br/>
 
-  <a href="https://www.linkedin.com/in/najatul-islam-94193b1b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/MNajatul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-  <a href="https://www.facebook.com/najatul6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
-  </a>
-
-</div>
-<!-- Visitor Badge -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=najatul6.najatul6&right_color=darkred" alt="Visitor Badge" />
-</div>
-
-&nbsp;
-&nbsp;
-
-<!-- About Me Section -->
-
-<h1 align="center">
-    <a href="https://www.najatulislam.me/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hi,+!+👋;+👨‍💼+I'm+Najatul+Islam!;" /></a>
-</h1>
-
-- 🌍 Rangpur, Bangladesh
-- 👨‍💻 Full-stack Developer
-- 📚 Passionately Pursuing MERN Stack Development
-- 🚀 Dedicated to crafting exceptional web experiences.
-- 💡 Committed to continuous innovation through code.
-- ⚡ Fun fact: I always love coding and creating creative websites
-
-&nbsp;
-&nbsp;
-
-<!-- Technology i KNow  -->
-<h2 align="center">💻 Technologies that I know </h2>
-
-<table><tr><td valign="top" width="33%">
-
- <h2 align="center"> 🖥️ Frontend </h2>
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-<h2 align="center"> ⚙️ Backend </h2>
-
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<h2 align="center"> 🛠️ Tools </h2>
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
-<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-<!-- Git hub status  -->
-<h2 align="center">🔥 Streak Showcase</h2>
-<div align='center'>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
-</div>
-
-&nbsp;
-&nbsp;
-
-<!-- Stats & top language uses  -->
-
-<h2 align="center">🚀 Current Github Status:</h2>
-
-<table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
-
-<h2 align="center"> 📊 Stats: </h2>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
-
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-<h2 align="center"> 👨🏽‍💻 Top Language </h2>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange)
-
-</div>
-
-</td></tr></table>
-&nbsp;
-&nbsp;
-
-<!-- Summery Card  -->
-<h2 align="center">📊 Commit Charts & Insights</h2>
-
-<div class='container'>
-<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=slateorange&card_width=1200" /></div>
-&nbsp;
-&nbsp;
-
-<div align="center">
-<h2 align="center">🏆 Github Trophy 🏆</h2>
-
-<p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=juicyfresh" alt="najatul islam" /></a> </p>
-</div>
+<p align="center">
+  <sub>Determined to build the web of tomorrow. Created by <b>Najatul Islam</b>.</sub>
+</p>
