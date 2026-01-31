@@ -43,6 +43,10 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ### 📊 GitHub Engineering Metrics
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&column=4&margin-w=15" width="100%" />
+  
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td width="50%" align="center">
@@ -50,11 +54,6 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight" width="100%"/>
       </td>
     </tr>
   </table>
