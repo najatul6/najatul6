@@ -55,13 +55,12 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
 </div>
 
-&nbsp;
-&nbsp;
-&nbsp;
+</br>
 
 <!-- Git hub status  -->
-<h2 align="center">🔥 Streak Showcase</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight" alt="GitHub Streak" /></a>
+## 🔥 Streak Showcase
+
+![GitHub Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight)
 
 &nbsp;
 &nbsp;
@@ -105,8 +104,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 &nbsp;
 &nbsp;
 
- <div align="center"> 
-<h2 align="center">🏆 Github Trophy 🏆</h2>
+## 🏆 Github Trophy 🏆
 
-<p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight" alt="najatul islam" /></a> </p> 
+ <div align="center"> 
+<p align="center"> <a href="https://najatul-islam.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight" alt="najatul islam" /></a> </p> 
 </div>
