@@ -3,7 +3,7 @@
 <!-- Cover Image -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/najatul6.jpg" width="100%" style="border-radius: 12px;" />
+  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%" style="border-radius: 12px;" />
   
   <br/>
   
@@ -21,6 +21,7 @@
     <a href="https://twitter.com/MNajatul" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
+    <a href="mailto:mdnajatulislam.develop@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" /></a>
   </div>
   
   <br/>
