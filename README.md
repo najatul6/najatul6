@@ -51,7 +51,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <!-- Technology i KNow  -->
 
-### 🛠️ Technical Skill Set
+### 🛠️ My Toolbox
 
 <div align="center">
   <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
