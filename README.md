@@ -3,7 +3,7 @@
 <!-- Cover Image -->
 
 <div align="center">
-  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%" style="border-radius: 12px;" />
+  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%" height="200px" style="border-radius: 12px;" />
   
   <br/>
   
