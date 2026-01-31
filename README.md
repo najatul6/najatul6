@@ -1,7 +1,4 @@
-<!-- Intro -->
-<!-- <h1 align="center">Welcome to My Profile! 👋</h1>
-&nbsp;
-&nbsp; -->
+
 
 <!-- Cover Image -->
 
@@ -61,8 +58,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 ## 🔥 Streak Showcase
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
-![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
 
 
 &nbsp;
@@ -78,7 +75,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=dark)
 
 </div>
 
@@ -89,7 +86,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=dark)
 
 </div>
 
@@ -102,11 +99,11 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 ### 📈 Activity & Contribution Insights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=dark" width="100%" />
 </div>
 &nbsp;
 &nbsp;
 
 ## 🏆 Github Trophy 🏆
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&cache_seconds=86400)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
