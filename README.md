@@ -52,7 +52,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 ### 🛠️ Technical Skill Set
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,canva,git,github,vercel,netlify,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
 </div>
 
 &nbsp;
@@ -61,7 +61,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <!-- Git hub status  -->
 <h2 align="center">🔥 Streak Showcase</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight" alt="GitHub Streak" /></a>
 
 &nbsp;
 &nbsp;
@@ -76,7 +76,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=najatul6&theme=tokyonight)
 
 </div>
 
@@ -87,7 +87,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najatul6&theme=tokyonight)
 
 </div>
 
@@ -104,12 +104,11 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 &nbsp;
 &nbsp;
 
-### 📈 Contribution Graph
-<div align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
 <!-- <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 
-<!-- <p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=juicyfresh" alt="najatul islam" /></a> </p> -->
-<!-- </div> --> -->
+<p align="center"> <a href="https://www.najatulislam.me/"><img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight" alt="najatul islam" /></a> </p> 
+</div> 
