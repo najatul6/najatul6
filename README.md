@@ -1,5 +1,3 @@
-
-
 <!-- Cover Image -->
 
 <div align="center">
@@ -42,29 +40,30 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 - 💬 **Core Values:** Problem-solving, Scalability, and Pixel-perfect design.
 - ⚡ **Fun fact:** I always love coding and creating creative websites.
 
-&nbsp;
-&nbsp;
+  <br/>
 
 <!-- Technology i KNow  -->
 
 ### 🛠️ Technical Skill Set
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
+  <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
 </div>
 
 </br>
 
 <!-- Git hub status  -->
+
 ## 🔥 Streak Showcase
 
-![GitHub Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+<div align="center">
+![GitHub Streak](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+</div>
+
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
 
-
-&nbsp;
-&nbsp;
+  <br/>
 
 <!-- Stats & top language uses  -->
 
@@ -92,8 +91,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 </div>
 
 </td></tr></table>
-&nbsp;
-&nbsp;
+
+<br/>
 
 <!-- Summery Card  -->
 
@@ -102,8 +101,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=dark" width="100%" />
 </div>
-&nbsp;
-&nbsp;
+
+  <br/>
 
 ## 🏆 Github Trophy 🏆
 
