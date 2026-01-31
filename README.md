@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatul6.jpg?raw=true" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/najatul6.jpg" width="100%" style="border-radius: 12px; border: 1px solid #1E3A8A;" />
   
   <br/>
   
@@ -43,17 +43,19 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ### 📊 GitHub Engineering Metrics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&column=4&margin-w=15" width="100%" />
-  
-  <br/><br/>
-
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&hide_border=false" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight&hide_border=false" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&hide_border=false" width="100%"/>
       </td>
     </tr>
   </table>
@@ -61,15 +63,9 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ---
 
-### 📈 Activity & Contribution Insights
+### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=tokyonight" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najatul6&theme=tokyonight&column=4&margin-w=15&no-bg=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
 
 <br/>
