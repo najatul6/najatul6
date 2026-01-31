@@ -1,9 +1,14 @@
 <!-- Cover Image -->
 
 <div align="center">
-<div width="100%" height="200px" overflow="hidden">
-  <img src="https://github.com/najatul6/najatul6/blob/main/coverImg/najatulislam.gif" width="100%"  style="border-radius: 12px;background-size:cover;" />
-  </div>
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/najatulislam.gif" 
+    width="100%" 
+    height="200" 
+    style="border-radius: 12px; object-fit: cover; display: block;" 
+  />
+</div>
   
   <br/>
   
