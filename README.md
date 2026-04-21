@@ -65,7 +65,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <div align="center">
 
   ![](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
-  
+
 </div>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
@@ -117,5 +117,8 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
   <br/>
 
 ### 🏆 Achievements
+<div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
+![](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
+
+</div>
