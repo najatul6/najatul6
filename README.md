@@ -54,7 +54,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 ### 🛠️ My Toolbox
 
 <div align="center">
-  <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman,vscode&theme=dark" />
+  <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman, mysql,vscode&theme=dark" />
 </div>
 
 </br>
@@ -63,7 +63,9 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 ## 🔥 Streak Showcase
 <div align="center">
-![GitHub Streak](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+
+  ![](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+  
 </div>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
