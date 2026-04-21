@@ -54,7 +54,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 ### 🛠️ My Toolbox
 
 <div align="center">
-  <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,vite,figma,git,github,vercel,netlify,postman, mysql,vscode&theme=dark" />
+  <img src="http://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mongoose,prisma,postgres,docker,mysql,firebase,vite,figma,git,github,vercel,netlify,postman, mysql,vscode&theme=dark" />
 </div>
 
 </br>
