@@ -62,9 +62,9 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <!-- Git hub status  -->
 
 ## 🔥 Streak Showcase
-
+<div align="center">
 ![GitHub Streak](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
-
+</div>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
