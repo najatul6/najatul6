@@ -61,12 +61,22 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <!-- Git hub status  -->
 
-## 🔥 Streak Showcase
-<div align="center">
+<h2 align="center">📊 Performance</h2>
 
-  ![](http://streak-stats.demolab.com?user=najatul6&theme=tokyonight&cache_seconds=86400)
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+<br>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
@@ -74,7 +84,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
   <br/>
 
 <!-- Stats & top language uses  -->
-
+<!--
 <h2 align="center">🚀 Current Github Status:</h2>
 
 <table align="center" style="background-color:#124453"><tr><td valign="top" width="50%">
@@ -100,7 +110,10 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 </td></tr></table>
 
-<br/>
+<br/> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
+</div>
 
 <!-- Summery Card  -->
 
@@ -113,10 +126,19 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
+<!-- <h2 align="center">🐍 The Code Journey</h2>
 
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</div> -->
   <br/>
 
 ### 🏆 Achievements
+
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
