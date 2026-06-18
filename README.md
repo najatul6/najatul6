@@ -66,7 +66,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=najatul6&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
+      <img src="https://streak-stats.demolab.com?user=najatul6&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
     </td>
     <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
