@@ -76,12 +76,12 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <br>
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> -->
-<br>
+<!-- <br> -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=najatul6&theme=tokyonight) -->
 
-  <br/>
+  <!-- <br/> -->
 
 <!-- Stats & top language uses  -->
 <!--
@@ -114,7 +114,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
 </div>
-
+<br/>
 <!-- Summery Card  -->
 
 <!-- ### 📈 Activity & Contribution Insights
@@ -122,7 +122,9 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najatul6&theme=dark" width="100%" />
 </div> -->
+
 ### 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=najatul6&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
