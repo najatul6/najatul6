@@ -139,10 +139,4 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 </div> -->
   <br/>
 
-### 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=najatul6&theme=dark&cache_seconds=86400)
-
 </div>
