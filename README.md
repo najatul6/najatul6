@@ -69,7 +69,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
       <img src="https://streak-stats.demolab.com?user=najatul6&theme=tokyonight&hide_border=true&background=1a1b26&stroke=8b5cf6&ring=3b82f6" alt="GitHub Streak" width="95%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
+      <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api?username=najatul6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="GitHub Stats" width="95%" />
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ I am a **Full-Stack Developer** specializing in building scalable web applicatio
 
 <br/> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-bay-cwwik9z0wn.vercel.app/api/top-langs/?username=najatul6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b26&card_width=800" width="100%" alt="Top Languages" />
 </div>
 <br/>
 <!-- Summery Card  -->
