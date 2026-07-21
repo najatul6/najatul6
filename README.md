@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header Banner](./coverImg/banner.svg)
+<img src="./banner.svg" alt="Md Najatul Islam Banner" width="100%">
+
   <div align="center">
     <a href="https://najatul-islam.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=06B6D4" />
