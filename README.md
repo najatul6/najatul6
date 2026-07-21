@@ -1,8 +1,6 @@
 <div align="center">
-<!-- Banner Image -->
-  <!-- <img src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/banner.svg" alt="Md Najatul Islam Banner" width="100%"> -->
   <img 
-    src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/banner.svg" alt="Md Najatul Islam Banner" 
+    src="https://raw.githubusercontent.com/najatul6/najatul6/refs/heads/main/coverImg/banner.svg" alt="Md Najatul Islam Banner" 
     width="100%">
 
   <div align="center">
