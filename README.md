@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/najatul6/najatul6/blob/main/coverImg/banner.svg" alt="Md Najatul Islam Banner" width="100%">
+<img src="https://raw.githubusercontent.com/najatul6/najatul6/main/coverImg/banner.svg" alt="Md Najatul Islam Banner" width="100%">
 
   <div align="center">
     <a href="https://najatul-islam.vercel.app/" target="_blank">
